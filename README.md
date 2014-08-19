@@ -30,6 +30,6 @@ As for the variable names, I chose to retain the somewhat hard-to-read name beca
 
 1. I don't know enough about the actual features used to change the names substantially.
 2. I build on an existing dataset and want to be able to cross-reference the results I get with the original dataset.
-3. The names are already quite compact and expanding the names, for example "fBodyAccJerk-meanFreq()-Y" into something like "Body Acceleration Jerk Mean Frequency Y", would make my dataset more difficult to read - which is less tidy in my mind. English is also not my main language so I might just mess it up.
+3. The names are already quite compact and expanding the names, for example "fBodyAccJerk-meanFreq()-Y" into something like "Body Acceleration Jerk Mean Frequency Y", would make my dataset more difficult to read - which is less tidy in my mind. English is also not my first language so I might just mess it up.
 
-So what I chose instead was to prefix "Mean of " to each column. That makes it clearer that the value is aggregated.
+So what I chose instead was to prefix "Mean of " to each column. That makes it clear that the variable is an aggregated variable.

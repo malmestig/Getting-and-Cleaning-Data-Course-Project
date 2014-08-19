@@ -54,9 +54,8 @@ aggregate <- aggregate(total.set[, -c(1:2)],
                             Activity = total.set$Activity), 
                        mean)
 
-## Change the column names to make them somewhat easier to read using camel notation, 
-## and also signify that it is an aggregated mean of the variable
-colnames(aggregate)[-c(1:2)] <- sapply(colnames(aggregate)[-c(1:2)], function(x) paste("Mean of", gsub("\\-(\\w)", "\\U\\1", gsub("\\(\\)", "", x), perl=TRUE)))
+## Change the column names to signify that it is an aggregated mean of the variable
+colnames(aggregate)[-c(1:2)] <- sapply(colnames(aggregate)[-c(1:2)], function(x) paste("Mean of", x))
 
 ## Write tidy data set to a text file
 write.table(aggregate,file="tidydata2.txt",row.name=FALSE)
