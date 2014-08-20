@@ -19,554 +19,554 @@ One of
 6. LAYING
 
 
-####Mean of tBodyAccMeanX
+####Mean of tBodyAcc-mean()-X
 
-The aggregated mean of tBodyAccMeanX, given Subject and Activity.
+The aggregated mean of tBodyAcc-mean()-X, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyAccMeanY
+####Mean of tBodyAcc-mean()-Y
 
-The aggregated mean of tBodyAccMeanY, given Subject and Activity.
+The aggregated mean of tBodyAcc-mean()-Y, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyAccMeanZ
+####Mean of tBodyAcc-mean()-Z
 
-The aggregated mean of tBodyAccMeanZ, given Subject and Activity.
+The aggregated mean of tBodyAcc-mean()-Z, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyAccStdX
+####Mean of tBodyAcc-std()-X
 
-The aggregated mean of tBodyAccStdX, given Subject and Activity.
+The aggregated mean of tBodyAcc-std()-X, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyAccStdY
+####Mean of tBodyAcc-std()-Y
 
-The aggregated mean of tBodyAccStdY, given Subject and Activity.
+The aggregated mean of tBodyAcc-std()-Y, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyAccStdZ
+####Mean of tBodyAcc-std()-Z
 
-The aggregated mean of tBodyAccStdZ, given Subject and Activity.
+The aggregated mean of tBodyAcc-std()-Z, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tGravityAccMeanX
+####Mean of tGravityAcc-mean()-X
 
-The aggregated mean of tGravityAccMeanX, given Subject and Activity.
+The aggregated mean of tGravityAcc-mean()-X, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tGravityAccMeanY
+####Mean of tGravityAcc-mean()-Y
 
-The aggregated mean of tGravityAccMeanY, given Subject and Activity.
+The aggregated mean of tGravityAcc-mean()-Y, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tGravityAccMeanZ
+####Mean of tGravityAcc-mean()-Z
 
-The aggregated mean of tGravityAccMeanZ, given Subject and Activity.
+The aggregated mean of tGravityAcc-mean()-Z, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tGravityAccStdX
+####Mean of tGravityAcc-std()-X
 
-The aggregated mean of tGravityAccStdX, given Subject and Activity.
+The aggregated mean of tGravityAcc-std()-X, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tGravityAccStdY
+####Mean of tGravityAcc-std()-Y
 
-The aggregated mean of tGravityAccStdY, given Subject and Activity.
+The aggregated mean of tGravityAcc-std()-Y, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tGravityAccStdZ
+####Mean of tGravityAcc-std()-Z
 
-The aggregated mean of tGravityAccStdZ, given Subject and Activity.
+The aggregated mean of tGravityAcc-std()-Z, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyAccJerkMeanX
+####Mean of tBodyAccJerk-mean()-X
 
-The aggregated mean of tBodyAccJerkMeanX, given Subject and Activity.
+The aggregated mean of tBodyAccJerk-mean()-X, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyAccJerkMeanY
+####Mean of tBodyAccJerk-mean()-Y
 
-The aggregated mean of tBodyAccJerkMeanY, given Subject and Activity.
+The aggregated mean of tBodyAccJerk-mean()-Y, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyAccJerkMeanZ
+####Mean of tBodyAccJerk-mean()-Z
 
-The aggregated mean of tBodyAccJerkMeanZ, given Subject and Activity.
+The aggregated mean of tBodyAccJerk-mean()-Z, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyAccJerkStdX
+####Mean of tBodyAccJerk-std()-X
 
-The aggregated mean of tBodyAccJerkStdX, given Subject and Activity.
+The aggregated mean of tBodyAccJerk-std()-X, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyAccJerkStdY
+####Mean of tBodyAccJerk-std()-Y
 
-The aggregated mean of tBodyAccJerkStdY, given Subject and Activity.
+The aggregated mean of tBodyAccJerk-std()-Y, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyAccJerkStdZ
+####Mean of tBodyAccJerk-std()-Z
 
-The aggregated mean of tBodyAccJerkStdZ, given Subject and Activity.
+The aggregated mean of tBodyAccJerk-std()-Z, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyGyroMeanX
+####Mean of tBodyGyro-mean()-X
 
-The aggregated mean of tBodyGyroMeanX, given Subject and Activity.
+The aggregated mean of tBodyGyro-mean()-X, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyGyroMeanY
+####Mean of tBodyGyro-mean()-Y
 
-The aggregated mean of tBodyGyroMeanY, given Subject and Activity.
+The aggregated mean of tBodyGyro-mean()-Y, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyGyroMeanZ
+####Mean of tBodyGyro-mean()-Z
 
-The aggregated mean of tBodyGyroMeanZ, given Subject and Activity.
+The aggregated mean of tBodyGyro-mean()-Z, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyGyroStdX
+####Mean of tBodyGyro-std()-X
 
-The aggregated mean of tBodyGyroStdX, given Subject and Activity.
+The aggregated mean of tBodyGyro-std()-X, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyGyroStdY
+####Mean of tBodyGyro-std()-Y
 
-The aggregated mean of tBodyGyroStdY, given Subject and Activity.
+The aggregated mean of tBodyGyro-std()-Y, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyGyroStdZ
+####Mean of tBodyGyro-std()-Z
 
-The aggregated mean of tBodyGyroStdZ, given Subject and Activity.
+The aggregated mean of tBodyGyro-std()-Z, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyGyroJerkMeanX
+####Mean of tBodyGyroJerk-mean()-X
 
-The aggregated mean of tBodyGyroJerkMeanX, given Subject and Activity.
+The aggregated mean of tBodyGyroJerk-mean()-X, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyGyroJerkMeanY
+####Mean of tBodyGyroJerk-mean()-Y
 
-The aggregated mean of tBodyGyroJerkMeanY, given Subject and Activity.
+The aggregated mean of tBodyGyroJerk-mean()-Y, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyGyroJerkMeanZ
+####Mean of tBodyGyroJerk-mean()-Z
 
-The aggregated mean of tBodyGyroJerkMeanZ, given Subject and Activity.
+The aggregated mean of tBodyGyroJerk-mean()-Z, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyGyroJerkStdX
+####Mean of tBodyGyroJerk-std()-X
 
-The aggregated mean of tBodyGyroJerkStdX, given Subject and Activity.
+The aggregated mean of tBodyGyroJerk-std()-X, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyGyroJerkStdY
+####Mean of tBodyGyroJerk-std()-Y
 
-The aggregated mean of tBodyGyroJerkStdY, given Subject and Activity.
+The aggregated mean of tBodyGyroJerk-std()-Y, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyGyroJerkStdZ
+####Mean of tBodyGyroJerk-std()-Z
 
-The aggregated mean of tBodyGyroJerkStdZ, given Subject and Activity.
+The aggregated mean of tBodyGyroJerk-std()-Z, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyAccMagMean
+####Mean of tBodyAccMag-mean()
 
-The aggregated mean of tBodyAccMagMean, given Subject and Activity.
+The aggregated mean of tBodyAccMag-mean(), given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyAccMagStd
+####Mean of tBodyAccMag-std()
 
-The aggregated mean of tBodyAccMagStd, given Subject and Activity.
+The aggregated mean of tBodyAccMag-std(), given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tGravityAccMagMean
+####Mean of tGravityAccMag-mean()
 
-The aggregated mean of tGravityAccMagMean, given Subject and Activity.
+The aggregated mean of tGravityAccMag-mean(), given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tGravityAccMagStd
+####Mean of tGravityAccMag-std()
 
-The aggregated mean of tGravityAccMagStd, given Subject and Activity.
+The aggregated mean of tGravityAccMag-std(), given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyAccJerkMagMean
+####Mean of tBodyAccJerkMag-mean()
 
-The aggregated mean of tBodyAccJerkMagMean, given Subject and Activity.
+The aggregated mean of tBodyAccJerkMag-mean(), given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyAccJerkMagStd
+####Mean of tBodyAccJerkMag-std()
 
-The aggregated mean of tBodyAccJerkMagStd, given Subject and Activity.
+The aggregated mean of tBodyAccJerkMag-std(), given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyGyroMagMean
+####Mean of tBodyGyroMag-mean()
 
-The aggregated mean of tBodyGyroMagMean, given Subject and Activity.
+The aggregated mean of tBodyGyroMag-mean(), given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyGyroMagStd
+####Mean of tBodyGyroMag-std()
 
-The aggregated mean of tBodyGyroMagStd, given Subject and Activity.
+The aggregated mean of tBodyGyroMag-std(), given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyGyroJerkMagMean
+####Mean of tBodyGyroJerkMag-mean()
 
-The aggregated mean of tBodyGyroJerkMagMean, given Subject and Activity.
+The aggregated mean of tBodyGyroJerkMag-mean(), given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of tBodyGyroJerkMagStd
+####Mean of tBodyGyroJerkMag-std()
 
-The aggregated mean of tBodyGyroJerkMagStd, given Subject and Activity.
+The aggregated mean of tBodyGyroJerkMag-std(), given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyAccMeanX
+####Mean of fBodyAcc-mean()-X
 
-The aggregated mean of fBodyAccMeanX, given Subject and Activity.
+The aggregated mean of fBodyAcc-mean()-X, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyAccMeanY
+####Mean of fBodyAcc-mean()-Y
 
-The aggregated mean of fBodyAccMeanY, given Subject and Activity.
+The aggregated mean of fBodyAcc-mean()-Y, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyAccMeanZ
+####Mean of fBodyAcc-mean()-Z
 
-The aggregated mean of fBodyAccMeanZ, given Subject and Activity.
+The aggregated mean of fBodyAcc-mean()-Z, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyAccStdX
+####Mean of fBodyAcc-std()-X
 
-The aggregated mean of fBodyAccStdX, given Subject and Activity.
+The aggregated mean of fBodyAcc-std()-X, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyAccStdY
+####Mean of fBodyAcc-std()-Y
 
-The aggregated mean of fBodyAccStdY, given Subject and Activity.
+The aggregated mean of fBodyAcc-std()-Y, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyAccStdZ
+####Mean of fBodyAcc-std()-Z
 
-The aggregated mean of fBodyAccStdZ, given Subject and Activity.
+The aggregated mean of fBodyAcc-std()-Z, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyAccMeanFreqX
+####Mean of fBodyAcc-meanFreq()-X
 
-The aggregated mean of fBodyAccMeanFreqX, given Subject and Activity.
+The aggregated mean of fBodyAcc-meanFreq()-X, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyAccMeanFreqY
+####Mean of fBodyAcc-meanFreq()-Y
 
-The aggregated mean of fBodyAccMeanFreqY, given Subject and Activity.
+The aggregated mean of fBodyAcc-meanFreq()-Y, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyAccMeanFreqZ
+####Mean of fBodyAcc-meanFreq()-Z
 
-The aggregated mean of fBodyAccMeanFreqZ, given Subject and Activity.
+The aggregated mean of fBodyAcc-meanFreq()-Z, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyAccJerkMeanX
+####Mean of fBodyAccJerk-mean()-X
 
-The aggregated mean of fBodyAccJerkMeanX, given Subject and Activity.
+The aggregated mean of fBodyAccJerk-mean()-X, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyAccJerkMeanY
+####Mean of fBodyAccJerk-mean()-Y
 
-The aggregated mean of fBodyAccJerkMeanY, given Subject and Activity.
+The aggregated mean of fBodyAccJerk-mean()-Y, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyAccJerkMeanZ
+####Mean of fBodyAccJerk-mean()-Z
 
-The aggregated mean of fBodyAccJerkMeanZ, given Subject and Activity.
+The aggregated mean of fBodyAccJerk-mean()-Z, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyAccJerkStdX
+####Mean of fBodyAccJerk-std()-X
 
-The aggregated mean of fBodyAccJerkStdX, given Subject and Activity.
+The aggregated mean of fBodyAccJerk-std()-X, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyAccJerkStdY
+####Mean of fBodyAccJerk-std()-Y
 
-The aggregated mean of fBodyAccJerkStdY, given Subject and Activity.
+The aggregated mean of fBodyAccJerk-std()-Y, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyAccJerkStdZ
+####Mean of fBodyAccJerk-std()-Z
 
-The aggregated mean of fBodyAccJerkStdZ, given Subject and Activity.
+The aggregated mean of fBodyAccJerk-std()-Z, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyAccJerkMeanFreqX
+####Mean of fBodyAccJerk-meanFreq()-X
 
-The aggregated mean of fBodyAccJerkMeanFreqX, given Subject and Activity.
+The aggregated mean of fBodyAccJerk-meanFreq()-X, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyAccJerkMeanFreqY
+####Mean of fBodyAccJerk-meanFreq()-Y
 
-The aggregated mean of fBodyAccJerkMeanFreqY, given Subject and Activity.
+The aggregated mean of fBodyAccJerk-meanFreq()-Y, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyAccJerkMeanFreqZ
+####Mean of fBodyAccJerk-meanFreq()-Z
 
-The aggregated mean of fBodyAccJerkMeanFreqZ, given Subject and Activity.
+The aggregated mean of fBodyAccJerk-meanFreq()-Z, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyGyroMeanX
+####Mean of fBodyGyro-mean()-X
 
-The aggregated mean of fBodyGyroMeanX, given Subject and Activity.
+The aggregated mean of fBodyGyro-mean()-X, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyGyroMeanY
+####Mean of fBodyGyro-mean()-Y
 
-The aggregated mean of fBodyGyroMeanY, given Subject and Activity.
+The aggregated mean of fBodyGyro-mean()-Y, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyGyroMeanZ
+####Mean of fBodyGyro-mean()-Z
 
-The aggregated mean of fBodyGyroMeanZ, given Subject and Activity.
+The aggregated mean of fBodyGyro-mean()-Z, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyGyroStdX
+####Mean of fBodyGyro-std()-X
 
-The aggregated mean of fBodyGyroStdX, given Subject and Activity.
+The aggregated mean of fBodyGyro-std()-X, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyGyroStdY
+####Mean of fBodyGyro-std()-Y
 
-The aggregated mean of fBodyGyroStdY, given Subject and Activity.
+The aggregated mean of fBodyGyro-std()-Y, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyGyroStdZ
+####Mean of fBodyGyro-std()-Z
 
-The aggregated mean of fBodyGyroStdZ, given Subject and Activity.
+The aggregated mean of fBodyGyro-std()-Z, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyGyroMeanFreqX
+####Mean of fBodyGyro-meanFreq()-X
 
-The aggregated mean of fBodyGyroMeanFreqX, given Subject and Activity.
+The aggregated mean of fBodyGyro-meanFreq()-X, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyGyroMeanFreqY
+####Mean of fBodyGyro-meanFreq()-Y
 
-The aggregated mean of fBodyGyroMeanFreqY, given Subject and Activity.
+The aggregated mean of fBodyGyro-meanFreq()-Y, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyGyroMeanFreqZ
+####Mean of fBodyGyro-meanFreq()-Z
 
-The aggregated mean of fBodyGyroMeanFreqZ, given Subject and Activity.
+The aggregated mean of fBodyGyro-meanFreq()-Z, given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyAccMagMean
+####Mean of fBodyAccMag-mean()
 
-The aggregated mean of fBodyAccMagMean, given Subject and Activity.
+The aggregated mean of fBodyAccMag-mean(), given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyAccMagStd
+####Mean of fBodyAccMag-std()
 
-The aggregated mean of fBodyAccMagStd, given Subject and Activity.
+The aggregated mean of fBodyAccMag-std(), given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyAccMagMeanFreq
+####Mean of fBodyAccMag-meanFreq()
 
-The aggregated mean of fBodyAccMagMeanFreq, given Subject and Activity.
+The aggregated mean of fBodyAccMag-meanFreq(), given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyBodyAccJerkMagMean
+####Mean of fBodyBodyAccJerkMag-mean()
 
-The aggregated mean of fBodyBodyAccJerkMagMean, given Subject and Activity.
+The aggregated mean of fBodyBodyAccJerkMag-mean(), given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyBodyAccJerkMagStd
+####Mean of fBodyBodyAccJerkMag-std()
 
-The aggregated mean of fBodyBodyAccJerkMagStd, given Subject and Activity.
+The aggregated mean of fBodyBodyAccJerkMag-std(), given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyBodyAccJerkMagMeanFreq
+####Mean of fBodyBodyAccJerkMag-meanFreq()
 
-The aggregated mean of fBodyBodyAccJerkMagMeanFreq, given Subject and Activity.
+The aggregated mean of fBodyBodyAccJerkMag-meanFreq(), given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyBodyGyroMagMean
+####Mean of fBodyBodyGyroMag-mean()
 
-The aggregated mean of fBodyBodyGyroMagMean, given Subject and Activity.
+The aggregated mean of fBodyBodyGyroMag-mean(), given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyBodyGyroMagStd
+####Mean of fBodyBodyGyroMag-std()
 
-The aggregated mean of fBodyBodyGyroMagStd, given Subject and Activity.
+The aggregated mean of fBodyBodyGyroMag-std(), given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyBodyGyroMagMeanFreq
+####Mean of fBodyBodyGyroMag-meanFreq()
 
-The aggregated mean of fBodyBodyGyroMagMeanFreq, given Subject and Activity.
+The aggregated mean of fBodyBodyGyroMag-meanFreq(), given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyBodyGyroJerkMagMean
+####Mean of fBodyBodyGyroJerkMag-mean()
 
-The aggregated mean of fBodyBodyGyroJerkMagMean, given Subject and Activity.
+The aggregated mean of fBodyBodyGyroJerkMag-mean(), given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyBodyGyroJerkMagStd
+####Mean of fBodyBodyGyroJerkMag-std()
 
-The aggregated mean of fBodyBodyGyroJerkMagStd, given Subject and Activity.
+The aggregated mean of fBodyBodyGyroJerkMag-std(), given Subject and Activity.
 
 [-1,1]
 
 
-####Mean of fBodyBodyGyroJerkMagMeanFreq
+####Mean of fBodyBodyGyroJerkMag-meanFreq()
 
-The aggregated mean of fBodyBodyGyroJerkMagMeanFreq, given Subject and Activity.
+The aggregated mean of fBodyBodyGyroJerkMag-meanFreq(), given Subject and Activity.
 
 [-1,1]
