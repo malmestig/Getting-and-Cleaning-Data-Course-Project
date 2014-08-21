@@ -3,7 +3,7 @@
 ####Subject
 The subject #
 
-1 ... 30
+[1,30]
 
 
 ####Activity
@@ -18,6 +18,11 @@ One of
 5. STANDING
 6. LAYING
 
+### Means 
+
+The below variables are means of the original variables from the dataset.
+The original variables are normalized between [-1,1] and so are the means.
+For an explanation of what the original variables represent, please see the README.md for a link to the original dataset and codebook.
 
 ####Mean of tBodyAcc-mean()-X
 
